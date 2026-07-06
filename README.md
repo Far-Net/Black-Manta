@@ -12,6 +12,6 @@ Python tool for identifying and scanning ports using the Tor service.
 - port identification
 
 # how to use
-- git clone https://github.com/Far-Net/manta.git or download the zip file
+- git clone https://github.com/Far-Net/Black-Manta.git or download the zip file
 - use pip install -r requirements.txt
 - and use python manta.py
