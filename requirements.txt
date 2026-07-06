@@ -1,11 +1,11 @@
-from tqdm import tqdm 
-from random import choice 
-from sys import exit, stdout 
-from time import strftime, sleep 
-from pyfiglet import figlet_format 
-from os import system, getlogin 
-from socket import gethostbyname, gaierror, socket, AF_INET, SOCK_STREAM, timeout 
-from socks import set_default_proxy, SOCKS5, socksocket, GeneralProxyError, ProxyConnectionError 
-from whois import whois 
-import dns.resolver 
-from subprocess import run 
+tqdm 
+random
+sys
+time
+pyfiglet
+os
+socket
+socks 
+whois
+dns.resolver 
+subprocess
